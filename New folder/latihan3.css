@@ -1,0 +1,20 @@
+.satu, .dua, .tiga {
+	width: 100px;
+	height: 100px;
+}
+
+body {
+	background-color: blue;
+}
+
+.satu {
+	background-color: lightskyblue;
+}
+
+.dua {
+	background-color: green;
+}
+
+.tiga {
+	background-color: yellow;
+}
